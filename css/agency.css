@@ -361,6 +361,11 @@ section h3.section-subheading {
   margin: 15px 0;
   text-transform: none;
 }
+.web,
+.angular,
+.jira {
+  height: 120px;
+}
 
 #portfolio .portfolio-item {
   margin: 0 0 15px;
