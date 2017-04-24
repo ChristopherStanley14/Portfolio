@@ -59,6 +59,17 @@ h6 {
   margin: 0 auto;
 }
 
+.tip-calc,
+.weatherly {
+  height: 200px;
+  width: 100%;
+}
+
+.flash,
+.guess {
+  height: 100px;
+}
+
 .bg-light-gray {
   background-color: #eeeeee;
 }
@@ -262,6 +273,10 @@ fieldset[disabled] .btn-xl:hover {
 
 .cube {
   height: 70px;
+}
+
+.laptop {
+  height: 157px;
 }
 
 header {
@@ -889,4 +904,10 @@ img::-moz-selection {
 
 body {
   webkit-tap-highlight-color: #fed136;
+}
+
+.teky {
+  background-color: rgb(191, 32, 63);
+  height: 156px;
+  width: 100%;
 }
