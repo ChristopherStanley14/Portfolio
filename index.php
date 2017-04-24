@@ -1,2 +1,2 @@
 <?php include_once("home.html"); ?>
-<?php include_once("./css/agency.css"); ?>
+<style><?php include "./css/agency.css"; ?></style>
