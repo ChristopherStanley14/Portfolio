@@ -275,10 +275,6 @@ fieldset[disabled] .btn-xl:hover {
   height: 70px;
 }
 
-.laptop {
-  height: 157px;
-}
-
 header {
   /*background-image: url('../img/header.jpg');*/
   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#0e0e0e+0,ffffff+92 */
@@ -749,6 +745,8 @@ section#contact .text-danger {
 footer {
   padding: 25px 0;
   text-align: center;
+  background-color: black;
+  color: white;
 }
 
 footer span.copyright {
@@ -908,6 +906,11 @@ body {
 
 .teky {
   background-color: rgb(191, 32, 63);
-  height: 156px;
+  height: 100%;
   width: 100%;
+}
+
+.laptop {
+  /*height: 157px;*/
+  height: 100%;
 }
